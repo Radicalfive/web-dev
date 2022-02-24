@@ -12,9 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="book-online" target="11.0.12" />
-      <module name="java-web-dev" target="11.0.12" />
-      <module name="quickstart" target="11.0.12" />
+      <module name="book-online" target="17" />
+      <module name="java-web-dev" target="17" />
+      <module name="quickstart" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
